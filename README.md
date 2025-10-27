@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BoldNBrash202 
+- 👋 Hi, I’m Ryan 
 - 👀 I’m interested in all things computers, science, and a bit of music too!
 - 🌱 I’m currently learning architecture & assembly language, a bit of C, and Java!
 - 💞️ I’m looking to collaborate on projects with my fellow students and CompSci professionals.
