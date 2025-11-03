@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan 
 - 👀 I’m interested in all things computers, science, and a bit of music too!
-- 🌱 I’m currently learning architecture & assembly language, a bit of C, and Java!
+- 🌱 I’m currently learning java, javaScript, C, node, HTML5, CSS, and SQL.
 - 💞️ I’m looking to collaborate on projects with my fellow students and CompSci professionals.
 - 📫 How to reach me: if you need/would like to reach me, message me on my discord! (boldandbrash_) 
 - 😄 Pronouns: late/for/class (he/him)
